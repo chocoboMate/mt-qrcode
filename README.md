@@ -21,10 +21,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[./screenshot-1.jpg](./screenshot-1.jpg)
-[./screenshot-2.jpg](./screenshot-2.jpg)
-[./screenshot-3.jpg](./screenshot-3.jpg)
-[./screenshot-4.jpg](./screenshot-4.jpg)
+![Screenshot 1](screenshot-1.JPG)
+![./screenshot-2.jpg](screenshot-2.jpg)
+![./screenshot-3.jpg](screenshot-3.jpg)
+![./screenshot-4.jpg](screenshot-4.jpg)
 
 ### Links
 
