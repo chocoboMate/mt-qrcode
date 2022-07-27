@@ -22,9 +22,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![Screenshot 1](screenshot-1.JPG)
-![./screenshot-2.jpg](screenshot-2.jpg)
-![./screenshot-3.jpg](screenshot-3.jpg)
-![./screenshot-4.jpg](screenshot-4.jpg)
+![./screenshot-2.jpg](screenshot-2.JPG)
+![./screenshot-3.jpg](screenshot-3.JPG)
+![./screenshot-4.jpg](screenshot-4.JPG)
 
 ### Links
 
