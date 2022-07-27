@@ -21,15 +21,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot-1.jpg)
-![](./screenshot-2.jpg)
-![](./screenshot-3.jpg)
-![](./screenshot-4.jpg)
+![./screenshot-1.jpg](./screenshot-1.jpg)
+![./screenshot-2.jpg](./screenshot-2.jpg)
+![./screenshot-3.jpg](./screenshot-3.jpg)
+![./screenshot-4.jpg](./screenshot-4.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL:](https://github.com/chocoboMate/mt-qrcode)
-- Live Site URL: [Live Site URL:](https://chocobomate.github.io/mt-qrcode/)
+- Solution URL: [https://github.com/chocoboMate/mt-qrcode](https://github.com/chocoboMate/mt-qrcode)
+- Live Site URL: [https://chocobomate.github.io/mt-qrcode/](https://chocobomate.github.io/mt-qrcode/)
 
 ## My process
 
